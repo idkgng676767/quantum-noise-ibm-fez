@@ -2,6 +2,10 @@
 
 Comprehensive hardware noise map and characterization data from IBM Quantum's ibm_fez machine.
 
+![Hardware summary](artifacts/fig5_summary_dashboard.png)
+
+Full corrected analysis: [ANALYSIS.md](ANALYSIS.md)
+
 ## Overview
 
 This dataset contains real, measured quantum hardware properties for all 156 qubits on IBM's ibm_fez quantum processor:
